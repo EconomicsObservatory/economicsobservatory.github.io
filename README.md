@@ -9,7 +9,7 @@
 | [**Data**](https://github.com/EconomicsObservatory/ecodatahub)
 |
 
-Welcome to the Economic Observatory! Here you will find all the data visualisations and infographics attached to our articles published on the Observatory website, as well as our repository. 
+Welcome to the Economic Observatory! Here you will find all the data visualisations and infographics attached to our articles published on the Observatory website, as well as our repository. This repository serves as the main gateway to exploring our work.
 
 ## 🌌 Visualisations
 
