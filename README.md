@@ -1,4 +1,4 @@
-<div align="center"><img src="https://raw.githubusercontent.com/EconomicsObservatory/economicsobservatory.github.io/main/EO-Logo.png" width="800"/></div>
+<div align="left"><img src="https://raw.githubusercontent.com/EconomicsObservatory/economicsobservatory.github.io/main/EO-Logo.png" width="800"/></div>
 
 # Economics Observatory  
 
@@ -9,11 +9,11 @@
 | [**Data**](https://github.com/EconomicsObservatory/ecodatahub)
 |
 
-Welcome to the Economic Observatory! Here you will find all the data visualisations and infographics attached to our articles published on the Observatory website, as well as our repository. 
+Welcome to the Economic Observatory! Here you will find all the data visualisations and infographics attached to our articles published on the Observatory website, as well as our repository. This repository serves as the main gateway to exploring our work.
 
 ## 🌌 Visualisations
 
-Head over to our **[ECOvisualisations](https://github.com/EconomicsObservatory/ecovisualisations)** repository for all of our charts sorted by article. We try to follow industry best-practices in data visualisation and try to establish our very own visualisation guidelines for all chart types. You can read about these, as well as the tools we use in [guidelines](https://github.com/EconomicsObservatory/ecovisualisations/guidelines).   
+Head over to our **[ECOvisualisations](https://github.com/EconomicsObservatory/ecovisualisations)** repository for all of our charts sorted by article. We try to follow industry best-practices in data visualisation and try to establish our very own visualisation guidelines for all chart types. You can read about these, as well as the tools we use in [guidelines](https://github.com/EconomicsObservatory/ecovisualisations/tree/main/guidelines).   
 
 ## 📊 Data
 
