@@ -9,15 +9,15 @@
 | [**Data**](https://github.com/EconomicsObservatory/ecodatahub)
 |
 
-Welcome to the Economic Observatory! Here you will find all the data visualisations and infographics attached to our articles published on the Observatory website, as well as our repository. This repository serves as the main gateway to exploring our work.
+Welcome to the **Economics Observatory**! Here you will find all the data visualisations and infographics attached to our articles published on the [Observatory website](https://www.economicsobservatory.com), as well as our data repository. This repository serves as the main gateway to exploring our work.
 
 ## 🌌 Visualisations
 
-Head over to our **[ECOvisualisations](https://github.com/EconomicsObservatory/ecovisualisations)** repository for all of our charts sorted by article. We try to follow industry best-practices in data visualisation and try to establish our very own visualisation guidelines for all chart types. You can read about these, as well as the tools we use in [guidelines](https://github.com/EconomicsObservatory/ecovisualisations/tree/main/guidelines).   
+Head over to our **[ECOvisualisations](https://github.com/EconomicsObservatory/ecovisualisations)** repository for all of our charts sorted by article. We try to follow industry best-practices in data visualisation and try to establish our very own visualisation guidelines for all chart types. You can read about these, as well as the tools we use in [**📐visualisation guidelines**](https://github.com/EconomicsObservatory/ECOvisualisations/tree/main/guidelines).  
 
 ## 📊 Data
 
-All of our chart data are published under their respective article subfolders, but on top of that we also operate the **[ECOdataHUB](https://github.com/EconomicsObservatory/ecodatahub)**, where you will find a trove of data used in our articles and analyses, as well as interactive visualisation exploration interfaces. Whenever possible, we try to follow a [TIDY](http://vita.had.co.nz/papers/tidy-data.pdf) format.   
+All of our chart data are published under their respective article subfolders, but on top of that we also operate the **[ECOdataHUB](https://github.com/EconomicsObservatory/ecodatahub)**, where you will find a trove of data used in our articles and analyses, as well as interactive visualisation exploration interfaces. Whenever possible, we try to follow a [TIDY](http://vita.had.co.nz/papers/tidy-data.pdf) format. You can read about our data zen in [**📐data guidelines**](https://github.com/EconomicsObservatory/ECOdataHUB/tree/main/guidelines).  
 
 ## 📧 Contact
 
