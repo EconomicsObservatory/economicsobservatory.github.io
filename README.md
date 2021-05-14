@@ -5,8 +5,8 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/EconomicsObservatory/ecovisualisations/blob/main/LICENSE)
 
 [**Website**](https://www.economicsobservatory.com/)
-| [**Visualisations**](https://github.com/EconomicsObservatory/ecovisualisations)
-| [**Data**](https://github.com/EconomicsObservatory/ecodatahub)
+| [**Visualisations**](https://github.com/EconomicsObservatory/ECOvisualisations)
+| [**Data**](https://github.com/EconomicsObservatory/ECOdataHUB)
 |
 
 Welcome to the **Economics Observatory**! Here you will find all the data visualisations and infographics attached to our articles published on the [Observatory website](https://www.economicsobservatory.com), as well as our data repository. This repository serves as the main gateway to exploring our work.
